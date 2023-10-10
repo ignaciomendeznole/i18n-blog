@@ -1,0 +1,25 @@
+{
+  "navigation": {
+    "links": {
+      "cities": "Städte",
+      "experiences": "Erlebnisse"
+    }
+  },
+  "buttons": {
+    "readMore": "Mehr lesen"
+  },
+  "ctaCard": {
+    "title": "Entdecke die Welt mit mir!",
+    "description": "Erkunde die Welt mit mir! Ich bin ein Full-Stack-Entwickler, der gerne die Welt erkundet und seine Erfahrungen mit dir teilt.",
+    "button": "Anmelden",
+    "placeholder": "Gib deine E-Mail-Adresse ein",
+    "subscriberText1": "Trete unserem",
+    "subscriberText2": "Abonnenten jetzt bei!"
+  },
+  "footer": {
+    "description": "Ein minimalistischer und schöner Reiseblog, der Erfahrungen und Städte aus der ganzen Welt teilt!",
+    "rightsText": "Alle Rechte vorbehalten | Urheberrecht",
+    "creatorText": "Mit ❤️ erstellt von",
+    "currentlyAtText": "Aktuell in"
+  }
+}

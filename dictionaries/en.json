@@ -1,0 +1,25 @@
+{
+  "navigation": {
+    "links": {
+      "cities": "Cities",
+      "experiences": "Experiences"
+    }
+  },
+  "buttons": {
+    "readMore": "Read more"
+  },
+  "ctaCard": {
+    "title": "Explore the world with me!",
+    "description": "Explore the world with me! I'm a full-stack developer who loves to explore the world and share my experiences with you.",
+    "button": "Sign Up",
+    "placeholder": "Enter your email address",
+    "subscriberText1": "Join our",
+    "subscriberText2": "subscribers now!"
+  },
+  "footer": {
+    "description": "A minimal and lovely travel blog which shares experiences and citiest around the world!",
+    "rightsText": "All Rights Reserved | Copyright",
+    "creatorText": "Made with ❤️ by",
+    "currentlyAtText": "Currently at"
+  }
+}
